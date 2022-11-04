@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582935464061",
+    "project_id": "fir-kothabarta",
+    "storage_bucket": "fir-kothabarta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582935464061:android:1a6bf09d12fe769a338914",
+        "android_client_info": {
+          "package_name": "com.example.kothabarta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582935464061-1prrv87pdtsepu5q5u8ek8bv5qroco06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwE3vTP0d4Afw5ZM78XXm6DXrRODVWl-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582935464061-1prrv87pdtsepu5q5u8ek8bv5qroco06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
