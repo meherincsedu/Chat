@@ -45,10 +45,7 @@ public class MainActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         switch (item.getItemId())
         {
-            case R.id.profile:
-                Intent p = new Intent(MainActivity.this, ProfileActivity.class);
-                startActivity(p);
-                break;
+
 
             case R.id.settings:
                 Intent i = new Intent(MainActivity.this, SettingsActivity.class);
